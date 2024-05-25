@@ -1,5 +1,9 @@
 ![image](https://github.com/RafaBelmonte/testproject/assets/170759303/14d38ccf-5153-4849-9bd1-7aa4dced2ed8)
 
+
+<h1>Creating and Managing Azure Resource Groups and Virtual Machines: A Step-by-Step Guide</h1>
+
+
 <h2>Description</h2>
 This project guides users through the process of creating a Resource Group and a Virtual Machine in Microsoft Azure, and connecting to the VM via Remote Desktop. The tutorial includes step-by-step instructions on setting up the Resource Group, configuring the Virtual Machine, and securely connecting to it. The project leverages Microsoft Azure's capabilities to demonstrate the deployment and management of cloud-based virtual resources.
 <br />
